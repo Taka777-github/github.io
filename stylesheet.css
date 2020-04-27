@@ -1,0 +1,110 @@
+body {
+  font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+}
+
+header{
+  height: 80px;
+  background-color: green;
+}
+
+.header-logo{
+  color: white;
+  float: left;
+  font-size: 30px;
+  padding: 20px
+}
+
+li{
+  list-style: none;
+}
+
+header li{
+  float: left;
+  font-size: 12px;
+  color: white;
+  padding-left: 20px
+}
+
+main{
+  padding-left: 30px;
+}
+
+main h1{
+  font-size: 60px;
+}
+
+span{
+  color: ;
+}
+
+h3{
+  border-bottom:2px solid gray;
+
+}
+
+.contents-item{
+  float: left;
+  padding: 20px;
+}
+
+.contact-form{
+  clear: left;
+
+}
+
+input,textarea{
+  width: 400px;
+  padding: 20px;
+  margin: 30px;
+}
+
+.contact-submit{
+  color: white;
+  font-size: 20px;
+  background-color:gray;
+}
+
+footer{
+  height: 200px;
+  background-color: green;
+}
+
+.facebook{
+  background-color:#3b5998;
+  margin-right:10px;
+}
+
+.twitter{
+  background-color:#55acee;
+}
+
+.btn {
+  padding:8px 24px;
+  color:white;
+  display:inline-block;
+  opacity:0.8;
+  border-radius: 4px;
+  margin-top: 20px;
+
+}
+
+.btn:hover{
+  opacity:1.0;
+}
+
+.fa{
+  margin-right:5px;
+}
+
+.footer-logo{
+  color: white;
+  float: left;
+  font-size: 30px;
+  padding: 20px;
+}
+.footer-list{
+  color: white;
+  float: right;
+  font-size: 15px;
+  padding-right: 30px;
+}
